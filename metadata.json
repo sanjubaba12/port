@@ -1,0 +1,6 @@
+{
+  "name": "Chativ Hero Section",
+  "description": "A high-fidelity landing page hero section with a seamless loop background video and premium glassmorphism styling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
